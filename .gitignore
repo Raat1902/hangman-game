@@ -1,0 +1,14 @@
+# Compiled output
+out/
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
